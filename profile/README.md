@@ -9,8 +9,8 @@
 If you have any questions or are seeking a security review for your project, reach out us at:
 
 - Twitter - [**Vesko210**](https://x.com/Vesko_210) / [**Merulez99**](https://x.com/Merulez99)
-- Telegram - [**Valves**](https://t.me/ValvesSec)
 - Discord - [**Vesko210**](https://discordapp.com/users/221960514748547076) / [**Merulez99**](https://discordapp.com/users/1090978704647266334)
+- Telegram - [**Valves**](https://t.me/ValvesSec)
 
 ## Public Competitions
 
