@@ -12,16 +12,18 @@ If you have any questions or are seeking a security review for your project, rea
 - Telegram - [**Valves**](https://t.me/ValvesSec)
 - Discord - [**Vesko210**](https://discordapp.com/users/221960514748547076) / [**Merulez99**](https://discordapp.com/users/1090978704647266334)
 
-### Public Competitions
+## Public Competitions
 
-| **Protocol** | Type  | Date | Ranking |
-|-----------------|:----------------:|:------------------:|:------------------------:|
-|[Recall](https://code4rena.com/audits/2025-02-recall) | Stableswap | February 2025 | 🥈 |
-|[Thorn](https://app.hats.finance/audit-competitions/thorn-protocol-0x1286ecdac50215a366458a14968fbca4bd95067d/leaderboard) | Stableswap | October 2024 | 4th |
-|[ZetaChain](https://cantina.xyz/competitions/80a33cf0-ad69-4163-a269-d27756aacb5e) | Interoperability protocol | August 2024 | 5th |
-|[Zaros](https://codehawks.cyfrin.io/c/2024-07-zaros) | Perps | July 2024 | 6th |
-|[Fenix Finance](https://www.fenixfinance.io/) | Liquidity Marketplace | July 2024 | 🥈 |
-|[Badger eBTC](https://code4rena.com/audits/2024-06-ebtc-zap-router) | CDP | June 2024 | 5th |
-|[Venus Governance](https://cantina.xyz/competitions/ddf86a5c-6f63-430f-aadc-d8742b4b1bcf) | LayerZero module | March 2024 | 🥇 |
-|[Ethereum Credit Guild](https://code4rena.com/audits/2023-12-ethereum-credit-guild) | Lending/Borrowing/Staking | December 2023 | 8th |
-|[Kelp DAO](https://code4rena.com/audits/2023-11-kelp-dao-rseth) | Liquid Restaking | November 2023 | 5th |
+| Date     | Contest                              | Platform   | Findings                 |   Rank   |
+|----------|--------------------------------------|------------|--------------------------|----------|
+| Dec 2025 | Panoptic: Next Core                  | Code4rena  | 1 H 4 M 1 L  (1 solo)    | #1 🥇    |
+| Dec 2025 | Monolith Stablecoin                  | Sherlock   | 1 H 1 M                  | #3 🥉    |
+| Nov 2025 | SukukFi                              | Code4rena  | 1 H 2 M                  | #3 🥉    |
+
+
+## Private Engagements
+
+| Client Name            | Worked with         | Date     | Report       |
+|------------------------|---------------------|----------|--------------|
+| Morpheus               | Morpheus            | Jun 2025 | Still Private|
+| Panoptic               | Code4rena           | Feb 2026 | Still Private|
