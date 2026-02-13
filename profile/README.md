@@ -12,6 +12,15 @@ If you have any questions or are seeking a security review for your project, rea
 - Discord - [**Vesko210**](https://discordapp.com/users/221960514748547076) / [**Merulez99**](https://discordapp.com/users/1090978704647266334)
 - Telegram - [**Valves**](https://t.me/ValvesSec)
 
+
+## Private Engagements
+
+| Client Name            | Worked with         | Date     | Report       |
+|------------------------|---------------------|----------|--------------|
+| Morpheus               | Morpheus            | Jun 2025 | Still Private|
+| Panoptic               | Code4rena           | Feb 2026 | Still Private|
+
+
 ## Public Competitions
 
 | Date     | Contest                              | Platform   | Findings                 |   Rank   |
@@ -21,10 +30,3 @@ If you have any questions or are seeking a security review for your project, rea
 | Nov 2025 | SukukFi                              | Code4rena  | 1 H 2 M                  | #3 🥉    |
 | Oct 2025 | Avon                                 | Cantina    | 1 H 2 M                  | #6       |
 
-
-## Private Engagements
-
-| Client Name            | Worked with         | Date     | Report       |
-|------------------------|---------------------|----------|--------------|
-| Morpheus               | Morpheus            | Jun 2025 | Still Private|
-| Panoptic               | Code4rena           | Feb 2026 | Still Private|
