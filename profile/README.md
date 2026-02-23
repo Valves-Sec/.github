@@ -26,7 +26,7 @@ If you have any questions or are seeking a security review for your project, rea
 | Date     | Contest                              | Platform   | Findings                 |   Rank   |
 |----------|--------------------------------------|------------|--------------------------|----------|
 | Dec 2025 | Panoptic: Next Core                  | Code4rena  | 1 H 4 M 1 L  (1 solo)    | #1 🥇    |
-| Dec 2025 | Monolith Stablecoin                  | Sherlock   | 1 H 1 M                  | #3 🥉    |
+| Dec 2025 | Monolith Stablecoin                  | Sherlock   | 1 H 1 M                  | #7       |
 | Nov 2025 | SukukFi                              | Code4rena  | 1 H 2 M                  | #3 🥉    |
 | Oct 2025 | Avon                                 | Cantina    | 1 H 2 M                  | #6       |
 
