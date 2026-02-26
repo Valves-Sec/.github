@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://t.me/ValvesSec" target="_blank">
+    <a href="https://valvessecurity.com/">
         <img src="Valves.png" alt="Valves Banner">
     </a>
 </p>
