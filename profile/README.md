@@ -33,14 +33,14 @@ We compete across Code4rena, Sherlock, and Cantina, and take on private engageme
 
 | Protocol | Type | Platform | Findings | Rank |
 |----------|------|----------|----------|------|
-| Panoptic: Next Core | Options | ![Code4rena](https://img.shields.io/badge/Code4rena-6a1bf5?style=flat&logoColor=white) | 1 H · 4 M _(solo)_ · 1 L | **#1** 🥇 |
-| Monolith Stablecoin | Stablecoin | ![Sherlock](https://img.shields.io/badge/Sherlock-black?style=flat&logoColor=white) | 1 H · 1 M | **#3** 🥉 |
-| SukukFi | Yield | ![Code4rena](https://img.shields.io/badge/Code4rena-6a1bf5?style=flat&logoColor=white) | 1 H · 2 M | **#3** 🥉 |
-| Avon | DeFi | ![Cantina](https://img.shields.io/badge/Cantina-0ea5e9?style=flat&logoColor=white) | 1 H · 2 M | #6 |
-| Summer.fi | Automation | ![Sherlock](https://img.shields.io/badge/Sherlock-black?style=flat&logoColor=white) | 2 M | #6 |
-| Nudge.xyz | Incentives | ![Code4rena](https://img.shields.io/badge/Code4rena-6a1bf5?style=flat&logoColor=white) | 1 M | #6 |
-| TermMax | Fixed Income | ![Cantina](https://img.shields.io/badge/Cantina-0ea5e9?style=flat&logoColor=white) | 2 M | #9 |
-| Flex Perpetuals | Perpetuals | ![Code4rena](https://img.shields.io/badge/Code4rena-6a1bf5?style=flat&logoColor=white) | 1 M | #6 |
+| Panoptic: Next Core | Options | [![Code4rena](https://img.shields.io/badge/Code4rena-6a1bf5?style=flat&logoColor=white)](https://code4rena.com) | 1 H · 4 M _(solo)_ · 1 L | **#1** 🥇 |
+| Monolith Stablecoin | Stablecoin | [![Sherlock](https://img.shields.io/badge/Sherlock-black?style=flat&logoColor=white)](https://sherlock.xyz) | 1 H · 1 M | **#3** 🥉 |
+| SukukFi | Yield | [![Code4rena](https://img.shields.io/badge/Code4rena-6a1bf5?style=flat&logoColor=white)](https://code4rena.com) | 1 H · 2 M | **#3** 🥉 |
+| Avon | DeFi | [![Cantina](https://img.shields.io/badge/Cantina-0ea5e9?style=flat&logoColor=white)](https://cantina.xyz) | 1 H · 2 M | #6 |
+| Summer.fi | Automation | [![Sherlock](https://img.shields.io/badge/Sherlock-black?style=flat&logoColor=white)](https://sherlock.xyz) | 2 M | #6 |
+| Nudge.xyz | Incentives | [![Code4rena](https://img.shields.io/badge/Code4rena-6a1bf5?style=flat&logoColor=white)](https://code4rena.com) | 1 M | #6 |
+| TermMax | Fixed Income | [![Cantina](https://img.shields.io/badge/Cantina-0ea5e9?style=flat&logoColor=white)](https://cantina.xyz) | 2 M | #9 |
+| Flex Perpetuals | Perpetuals | [![Code4rena](https://img.shields.io/badge/Code4rena-6a1bf5?style=flat&logoColor=white)](https://code4rena.com) | 1 M | #6 |
 
 ---
 
