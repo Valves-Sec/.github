@@ -23,10 +23,14 @@ If you have any questions or are seeking a security review for your project, rea
 
 ## Public Competitions
 
-| Date     | Contest                              | Platform   | Findings                 |   Rank   |
-|----------|--------------------------------------|------------|--------------------------|----------|
-| Dec 2025 | Panoptic: Next Core                  | Code4rena  | 1 H 4 M 1 L  (1 solo)    | #1 🥇    |
-| Dec 2025 | Monolith Stablecoin                  | Sherlock   | 1 H 1 M                  | #3 🥉    |
-| Nov 2025 | SukukFi                              | Code4rena  | 1 H 2 M                  | #3 🥉    |
-| Oct 2025 | Avon                                 | Cantina    | 1 H 2 M                  | #6       |
+| Contest                              | Platform   | Findings                 |   Rank   |
+|--------------------------------------|------------|--------------------------|----------|
+| Panoptic: Next Core                  | Code4rena  | 1 H 4 M 1 L  (1 solo)    | #1 🥇    |
+| Monolith Stablecoin                  | Sherlock   | 1 H 1 M                  | #3 🥉    |
+| SukukFi                              | Code4rena  | 1 H 2 M                  | #3 🥉    |
+| Avon                                 | Cantina    | 1 H 2 M                  | #6       |
+| Summer.fi                            | Sherlock   | 2 M                      | #6       |
+| Nudge.xyz                            | Code4rena  | 1 M                      | #6       |
+| TermMax                              | Cantina    | 2 M                      | #9       |
+| Flex Perpetuals                      | Code4rena  | 1 M                      | #6       |
 
