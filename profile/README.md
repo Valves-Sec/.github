@@ -36,7 +36,7 @@ We compete across Code4rena, Sherlock, and Cantina, and take on private engageme
 | Panoptic: Next Core | Options | ![Code4rena](https://img.shields.io/badge/Code4rena-6a1bf5?style=flat&logoColor=white) | 1 H · 4 M _(solo)_ · 1 L | **#1** 🥇 |
 | Monolith Stablecoin | Stablecoin | ![Sherlock](https://img.shields.io/badge/Sherlock-black?style=flat&logoColor=white) | 1 H · 1 M | **#3** 🥉 |
 | SukukFi | Yield | ![Code4rena](https://img.shields.io/badge/Code4rena-6a1bf5?style=flat&logoColor=white) | 1 H · 2 M | **#3** 🥉 |
-| [Avon | DeFi | ![Cantina](https://img.shields.io/badge/Cantina-0ea5e9?style=flat&logoColor=white) | 1 H · 2 M | #6 |
+| Avon | DeFi | ![Cantina](https://img.shields.io/badge/Cantina-0ea5e9?style=flat&logoColor=white) | 1 H · 2 M | #6 |
 | Summer.fi | Automation | ![Sherlock](https://img.shields.io/badge/Sherlock-black?style=flat&logoColor=white) | 2 M | #6 |
 | Nudge.xyz | Incentives | ![Code4rena](https://img.shields.io/badge/Code4rena-6a1bf5?style=flat&logoColor=white) | 1 M | #6 |
 | TermMax | Fixed Income | ![Cantina](https://img.shields.io/badge/Cantina-0ea5e9?style=flat&logoColor=white) | 2 M | #9 |
@@ -46,8 +46,8 @@ We compete across Code4rena, Sherlock, and Cantina, and take on private engageme
 
 ## Contact
 
-Twitter / X [@Merulez99](https://x.com/Merulez99) | [@Vesko_210](https://x.com/Vesko_210)
+Twitter / X [Merulez99](https://x.com/Merulez99) | [Vesko_210](https://x.com/Vesko_210)
 
 Discord [Merulez99](https://discordapp.com/users/1090978704647266334) | [Vesko210](https://discordapp.com/users/221960514748547076)
 
-Telegram [@ValvesSec](https://t.me/ValvesSec)
+Website [Valves Security](https://valvessecurity.com/)
