@@ -1,35 +1,53 @@
-<img width="722" height="561" alt="image" src="https://github.com/user-attachments/assets/7fe68e50-0828-4f74-9e0a-b1e17dc9a16c" /><p align="center">
+<p align="center">
     <a href="https://t.me/ValvesSec" target="_blank">
         <img src="Valves.png" alt="Valves Banner">
     </a>
 </p>
 
-## Valves Audit Portfolio
+<p align="center">
+    <a href="https://t.me/ValvesSec">
+        <img src="https://img.shields.io/badge/BOOK%20AN%20AUDIT-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Book an Audit" width="220"/>
+    </a>
+</p>
 
-If you have any questions or are seeking a security review for your project, reach out us at:
+---
 
-- Twitter - [**Vesko210**](https://x.com/Vesko_210) / [**Merulez99**](https://x.com/Merulez99)
-- Discord - [**Vesko210**](https://discordapp.com/users/221960514748547076) / [**Merulez99**](https://discordapp.com/users/1090978704647266334)
+## About
 
+Valves Security is a Web3 security team specializing in adversarial smart contract audits for complex DeFi protocols. We work with DeFi founders and protocol teams to uncover structural weaknesses that could compromise user funds or protocol integrity.
+Forged in competitive audit environments where findings are publicly scrutinized, our methodology is built on disciplined analysis and reproducible, PoC backed findings.
+We compete across Code4rena, Sherlock, and Cantina, and take on private engagements directly.
+
+---
 
 ## Private Engagements
 
-| Client Name            | Worked with         | Date     | Report       |
-|------------------------|---------------------|----------|--------------|
-| Morpheus               | Morpheus            | Jun 2025 | Still Private|
-| Panoptic               | Code4rena           | Feb 2026 | Still Private|
+| Protocol | Worked with | Date | Report |
+|----------|-------------|------|--------|
+| **Morpheus** | Morpheus | Jun 2025 | Private |
+| **Panoptic** | Code4rena | Feb 2026 | Private |
 
+---
 
 ## Public Competitions
 
-| Contest                              | Platform   | Findings                 |   Rank   |
-|--------------------------------------|------------|--------------------------|----------|
-| Panoptic: Next Core                  | Code4rena  | 1 H 4 M 1 L  (1 solo)    | #1 🥇    |
-| Monolith Stablecoin                  | Sherlock   | 1 H 1 M                  | #3 🥉    |
-| SukukFi                              | Code4rena  | 1 H 2 M                  | #3 🥉    |
-| Avon                                 | Cantina    | 1 H 2 M                  | #6       |
-| Summer.fi                            | Sherlock   | 2 M                      | #6       |
-| Nudge.xyz                            | Code4rena  | 1 M                      | #6       |
-| TermMax                              | Cantina    | 2 M                      | #9       |
-| Flex Perpetuals                      | Code4rena  | 1 M                      | #6       |
+| Protocol | Type | Platform | Findings | Rank |
+|----------|------|----------|----------|------|
+| Panoptic: Next Core | Options | ![Code4rena](https://img.shields.io/badge/Code4rena-6a1bf5?style=flat&logoColor=white) | 1 H · 4 M _(solo)_ · 1 L | **#1** 🥇 |
+| Monolith Stablecoin | Stablecoin | ![Sherlock](https://img.shields.io/badge/Sherlock-black?style=flat&logoColor=white) | 1 H · 1 M | **#3** 🥉 |
+| SukukFi | Yield | ![Code4rena](https://img.shields.io/badge/Code4rena-6a1bf5?style=flat&logoColor=white) | 1 H · 2 M | **#3** 🥉 |
+| [Avon | DeFi | ![Cantina](https://img.shields.io/badge/Cantina-0ea5e9?style=flat&logoColor=white) | 1 H · 2 M | #6 |
+| Summer.fi | Automation | ![Sherlock](https://img.shields.io/badge/Sherlock-black?style=flat&logoColor=white) | 2 M | #6 |
+| Nudge.xyz | Incentives | ![Code4rena](https://img.shields.io/badge/Code4rena-6a1bf5?style=flat&logoColor=white) | 1 M | #6 |
+| TermMax | Fixed Income | ![Cantina](https://img.shields.io/badge/Cantina-0ea5e9?style=flat&logoColor=white) | 2 M | #9 |
+| Flex Perpetuals | Perpetuals | ![Code4rena](https://img.shields.io/badge/Code4rena-6a1bf5?style=flat&logoColor=white) | 1 M | #6 |
 
+---
+
+## Contact
+
+Twitter / X [@Merulez99](https://x.com/Merulez99) | [@Vesko_210](https://x.com/Vesko_210)
+
+Discord [Merulez99](https://discordapp.com/users/1090978704647266334) | [Vesko210](https://discordapp.com/users/221960514748547076)
+
+Telegram [@ValvesSec](https://t.me/ValvesSec)
