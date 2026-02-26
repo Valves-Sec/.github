@@ -1,6 +1,6 @@
 <img width="722" height="561" alt="image" src="https://github.com/user-attachments/assets/7fe68e50-0828-4f74-9e0a-b1e17dc9a16c" /><p align="center">
     <a href="https://t.me/ValvesSec" target="_blank">
-        <img src="Valves.png" alt="Valves Banner">
+        <img src="Valves_Background.png" alt="Valves Banner">
     </a>
 </p>
 
