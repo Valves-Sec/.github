@@ -24,8 +24,8 @@ We compete across Code4rena, Sherlock, and Cantina, and take on private engageme
 
 | Protocol | Worked with | Date | Report |
 |----------|-------------|------|--------|
-| **Morpheus** | Morpheus | Jun 2025 | Private |
-| **Panoptic** | Code4rena | Feb 2026 | Private |
+| **Morpheus** | [![Morpheus](https://img.shields.io/badge/Morpheus-00FF00?style=flat&logoColor=grean)](https://mor.org/) | Jun 2025 | Private |
+| **Panoptic** | [![Code4rena](https://img.shields.io/badge/Code4rena-6a1bf5?style=flat&logoColor=white)](https://code4rena.com) | Feb 2026 | Private |
 
 ---
 
