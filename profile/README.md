@@ -36,6 +36,7 @@ We compete across Code4rena, Sherlock, and Cantina, and take on private engageme
 
 | Protocol | Type | Platform | Findings | Rank |
 |----------|------|----------|----------|------|
+|  Flying Tulip  | Yield      | [![Sherlock](https://img.shields.io/badge/Sherlock-black?style=flat&logoColor=white)](https://sherlock.xyz)  |   ---  | **#4**   |
 | Panoptic: Next Core | Options | [![Code4rena](https://img.shields.io/badge/Code4rena-6a1bf5?style=flat&logoColor=white)](https://code4rena.com) | 1 H · 4 M _(solo)_ · 1 L | **#1** 🥇 |
 | Monolith Stablecoin | Stablecoin | [![Sherlock](https://img.shields.io/badge/Sherlock-black?style=flat&logoColor=white)](https://sherlock.xyz) | 1 H · 1 M | **#3** 🥉 |
 | SukukFi | Yield | [![Code4rena](https://img.shields.io/badge/Code4rena-6a1bf5?style=flat&logoColor=white)](https://code4rena.com) | 1 H · 2 M | **#3** 🥉 |
