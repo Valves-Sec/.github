@@ -24,11 +24,12 @@ We compete across Code4rena, Sherlock, and Cantina, and take on private engageme
 
 | Protocol | Worked with | Date | Report |
 |----------|-------------|------|--------|
-| **Opinion** | [![Pashov](https://img.shields.io/badge/Pashov-00FF00?style=flat&logoColor=white)](https://www.pashov.com/process) | Mar 2026 | Private |
-| **Gemint** | [![Pashov](https://img.shields.io/badge/Pashov-00FF00?style=flat&logoColor=white)](https://www.pashov.com/process) | Mar 2026 | Private |
+| **need4audit** | [![need4audit](https://img.shields.io/badge/need4audit-00FF00?style=flat&logoColor=white)](https://www.need4audit.xyz/) | Mar 2026 | Private |
+| **Opinion** | [![Pashov](https://img.shields.io/badge/Pashov-1d3af5?style=flat&logoColor=white)](https://www.pashov.com/process) | Mar 2026 | Private |
+| **Gemint** | [![Pashov](https://img.shields.io/badge/Pashov-1d3af5?style=flat&logoColor=white)](https://www.pashov.com/process) | Mar 2026 | Private |
 | **Panoptic** | [![Panoptic](https://img.shields.io/badge/Panoptic-6a1bf5?style=flat&logoColor=white)](https://panoptic.xyz/) | Mar 2026 | [Report PDF](https://github.com/Valves-Sec/reports/blob/main/Panoptic.pdf) |
 | **UniVoucher** | [![UniVoucher](https://img.shields.io/badge/UniVoucher-6566e8?style=flat&logoColor=purple)](https://univoucher.com/) | Mar 2026 | [Report PDF](https://github.com/Valves-Sec/reports/blob/main/UniVaucher.pdf) |
-| **SendToEmail** | [![SendToEmail](https://img.shields.io/badge/SendToEmail-5962ff?style=flat&logoColor=purple)](https://sendtoemail.io/) | Mar 2026 | [Report PDF](https://github.com/Valves-Sec/reports/blob/main/SendToEmail.pdf) |
+| **SendToEmail** | [![SendToEmail](https://img.shields.io/badge/SendToEmail-5962ff?style=flat&logoColor=purple)](https://mor.org/) | Mar 2026 | [Report PDF](https://github.com/Valves-Sec/reports/blob/main/SendToEmail.pdf) |
 | **Panoptic** | [![Code4rena](https://img.shields.io/badge/Code4rena-6a1bf5?style=flat&logoColor=white)](https://code4rena.com) | Feb 2026 | Private |
 | **Morpheus** | [![Morpheus](https://img.shields.io/badge/Morpheus-00FF00?style=flat&logoColor=grean)](https://mor.org/) | Jun 2025 | Private |
 
