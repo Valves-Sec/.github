@@ -99,17 +99,87 @@ We compete across Code4rena, Sherlock, and Cantina, and take on private engageme
 
 ## :crossed_swords: Public Competitions
 
-| Protocol | Type | Platform | Findings | Rank |
-|----------|------|----------|----------|------|
-| Panoptic: Next Core | Options | [![Code4rena](https://img.shields.io/badge/Code4rena-6a1bf5?style=flat&logoColor=white)](https://code4rena.com) | 1 H · 4 M _(solo)_ · 1 L | **#1** 🥇 |
-| Monolith Stablecoin | Stablecoin | [![Sherlock](https://img.shields.io/badge/Sherlock-black?style=flat&logoColor=white)](https://sherlock.xyz) | 1 H · 1 M | **#3** 🥉 |
-| SukukFi | Yield | [![Code4rena](https://img.shields.io/badge/Code4rena-6a1bf5?style=flat&logoColor=white)](https://code4rena.com) | 1 H · 2 M | **#3** 🥉 |
-|  Flying Tulip  | Yield      | [![Sherlock](https://img.shields.io/badge/Sherlock-black?style=flat&logoColor=white)](https://sherlock.xyz)  |   ---  | **#4**   |
-| Avon | DeFi | [![Cantina](https://img.shields.io/badge/Cantina-0ea5e9?style=flat&logoColor=white)](https://cantina.xyz) | 1 H · 2 M | #6 |
-| Summer.fi | Automation | [![Sherlock](https://img.shields.io/badge/Sherlock-black?style=flat&logoColor=white)](https://sherlock.xyz) | 2 M | #6 |
-| Nudge.xyz | Incentives | [![Code4rena](https://img.shields.io/badge/Code4rena-6a1bf5?style=flat&logoColor=white)](https://code4rena.com) | 1 M | #6 |
-| TermMax | Fixed Income | [![Cantina](https://img.shields.io/badge/Cantina-0ea5e9?style=flat&logoColor=white)](https://cantina.xyz) | 2 M | #9 |
-| Flex Perpetuals | Perpetuals | [![Code4rena](https://img.shields.io/badge/Code4rena-6a1bf5?style=flat&logoColor=white)](https://code4rena.com) | 1 M | #6 |
+<div align="center">
+
+<table>
+  <thead>
+    <tr>
+      <th width="220">Protocol</th>
+      <th width="120">Type</th>
+      <th width="160">Platform</th>
+      <th width="200">Findings</th>
+      <th width="80">Rank</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Panoptic: Next Core</strong></td>
+      <td>Options</td>
+      <td><a href="https://code4rena.com"><img src="https://img.shields.io/badge/Code4rena-6a1bf5?style=flat&logoColor=white" alt="Code4rena"></a></td>
+      <td>1 H · 4 M <em>(solo)</em> · 1 L</td>
+      <td align="center"><strong>#1</strong> 🥇</td>
+    </tr>
+    <tr>
+      <td><strong>Monolith Stablecoin</strong></td>
+      <td>Stablecoin</td>
+      <td><a href="https://sherlock.xyz"><img src="https://img.shields.io/badge/Sherlock-black?style=flat&logoColor=white" alt="Sherlock"></a></td>
+      <td>1 H · 1 M</td>
+      <td align="center"><strong>#3</strong> 🥉</td>
+    </tr>
+    <tr>
+      <td><strong>SukukFi</strong></td>
+      <td>Yield</td>
+      <td><a href="https://code4rena.com"><img src="https://img.shields.io/badge/Code4rena-6a1bf5?style=flat&logoColor=white" alt="Code4rena"></a></td>
+      <td>1 H · 2 M</td>
+      <td align="center"><strong>#3</strong> 🥉</td>
+    </tr>
+    <tr>
+      <td><strong>Flying Tulip</strong></td>
+      <td>Yield</td>
+      <td><a href="https://sherlock.xyz"><img src="https://img.shields.io/badge/Sherlock-black?style=flat&logoColor=white" alt="Sherlock"></a></td>
+      <td>---</td>
+      <td align="center"><strong>#4</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Avon</strong></td>
+      <td>DeFi</td>
+      <td><a href="https://cantina.xyz"><img src="https://img.shields.io/badge/Cantina-0ea5e9?style=flat&logoColor=white" alt="Cantina"></a></td>
+      <td>1 H · 2 M</td>
+      <td align="center">#6</td>
+    </tr>
+    <tr>
+      <td><strong>Summer.fi</strong></td>
+      <td>Automation</td>
+      <td><a href="https://sherlock.xyz"><img src="https://img.shields.io/badge/Sherlock-black?style=flat&logoColor=white" alt="Sherlock"></a></td>
+      <td>2 M</td>
+      <td align="center">#6</td>
+    </tr>
+    <tr>
+      <td><strong>Nudge.xyz</strong></td>
+      <td>Incentives</td>
+      <td><a href="https://code4rena.com"><img src="https://img.shields.io/badge/Code4rena-6a1bf5?style=flat&logoColor=white" alt="Code4rena"></a></td>
+      <td>1 M</td>
+      <td align="center">#6</td>
+    </tr>
+    <tr>
+      <td><strong>TermMax</strong></td>
+      <td>Fixed Income</td>
+      <td><a href="https://cantina.xyz"><img src="https://img.shields.io/badge/Cantina-0ea5e9?style=flat&logoColor=white" alt="Cantina"></a></td>
+      <td>2 M</td>
+      <td align="center">#9</td>
+    </tr>
+    <tr>
+      <td><strong>Flex Perpetuals</strong></td>
+      <td>Perpetuals</td>
+      <td><a href="https://code4rena.com"><img src="https://img.shields.io/badge/Code4rena-6a1bf5?style=flat&logoColor=white" alt="Code4rena"></a></td>
+      <td>1 M</td>
+      <td align="center">#6</td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
+
 
 ---
 
