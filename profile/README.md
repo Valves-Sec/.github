@@ -30,6 +30,14 @@ We compete across Code4rena, Sherlock, and Cantina, and take on private engageme
     <th width="110">:date: Date</th>
     <th width="140">:briefcase: Provider</th>
   </tr>
+    <tr>
+    <td align="center"><strong>9</strong></td>
+    <td><a href="https://www.snuggle.fi/">Snuggle</a></td>
+    <td>Zero-swap LP rebalancing on Base and Arbitrum. No swap fees. No slippage. Just yield and passive income.</td>
+    <td align="center">private</td>
+    <td>Apr 2026</td>
+    <td><a href="https://www.snuggle.fi/">Snuggle</a></td>
+  </tr>
   <tr>
     <td align="center"><strong>8</strong></td>
     <td><a href="https://www.need4audit.xyz/">need4audit</a></td>
