@@ -30,7 +30,15 @@ We compete across Code4rena, Sherlock, and Cantina, and take on private engageme
     <th width="110">:date: Date</th>
     <th width="140">:briefcase: Provider</th>
   </tr>
-    <tr>
+  <tr>
+    <td align="center"><strong>10</strong></td>
+    <td><a href="https://www.snuggle.fi/">Olla</a></td>
+    <td>liquid staking protocol on the Aztec network that allows users to deposit AZTEC tokens into an ERC-4626/ERC-7540 vault.</td>
+    <td align="center">private</td>
+    <td>Apr 2026</td>
+    <td><a href="https://www.pashov.com/process">Pashov Audit Group</a></td>
+  </tr>
+  <tr>
     <td align="center"><strong>9</strong></td>
     <td><a href="https://www.snuggle.fi/">Snuggle</a></td>
     <td>Zero-swap LP rebalancing on Base and Arbitrum. No swap fees. No slippage. Just yield and passive income.</td>
@@ -42,7 +50,7 @@ We compete across Code4rena, Sherlock, and Cantina, and take on private engageme
     <td align="center"><strong>8</strong></td>
     <td><a href="https://www.need4audit.xyz/">need4audit</a></td>
     <td>Web3 security audit marketplace connecting protocols with vetted auditors for on-demand smart contract reviews</td>
-    <td align="center">private</td>
+    <td align="center"><a href="https://github.com/Valves-Sec/reports/blob/main/Need4Audit.pdf">Report PDF</a></td>
     <td>Mar 2026</td>
     <td><a href="https://www.need4audit.xyz/">need4audit</a></td>
   </tr>
