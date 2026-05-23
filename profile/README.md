@@ -173,6 +173,13 @@ We compete across Code4rena, Sherlock, and Cantina, and take on private engageme
       <td align="center"><strong>#4</strong></td>
     </tr>
     <tr>
+      <td><strong>Monetrix</strong></td>
+      <td>Yield</td>
+      <td><a href="https://code4rena.com"><img src="https://img.shields.io/badge/Code4rena-6a1bf5?style=flat&logoColor=white" alt="Code4rena"></a></td>
+      <td> 33 L</td>
+      <td align="center"><strong>#4</strong></td>
+    </tr>
+    <tr>
       <td><strong>Avon</strong></td>
       <td>DeFi</td>
       <td><a href="https://cantina.xyz"><img src="https://img.shields.io/badge/Cantina-0ea5e9?style=flat&logoColor=white" alt="Cantina"></a></td>
