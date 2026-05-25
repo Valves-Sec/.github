@@ -4,11 +4,17 @@
     </a>
 </p>
 
-<p align="center">
-    <a href="https://t.me/ValvesSec">
-        <img src="https://img.shields.io/badge/BOOK%20AN%20AUDIT-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Book an Audit" width="220"/>
+ <p align="center">
+    <a href="https://valvessecurity.com/">
+      <img src="https://img.shields.io/badge/WEBSITE-valvessecurity.com-2CA5E0?style=for-the-badge&labelColor=0D1117" alt="Website">
     </a>
-</p>
+    <a href="https://t.me/ValvesSec">
+      <img src="https://img.shields.io/badge/TELEGRAM-@ValvesSec-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0D1117" alt="Telegram">
+    </a>
+    <a href="https://x.com/ValvesSec">
+      <img src="https://img.shields.io/badge/X-@ValvesSec-2CA5E0?style=for-the-badge&logo=x&logoColor=white&labelColor=0D1117" alt="X">
+    </a>
+  </p>
 
 ---
 
