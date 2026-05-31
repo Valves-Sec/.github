@@ -37,6 +37,14 @@ We compete across Code4rena, Sherlock, and Cantina, and take on private engageme
     <th width="140">:briefcase: Provider</th>
   </tr>
     <tr>
+    <td align="center"><strong>13</strong></td>
+    <td><a href="https://raac.io/">RAAC</a></td>
+    <td>A DeFi lending and borrowing ecosystem powered by Real-World Assets</td>
+    <td align="center">private</td>
+    <td>May 2026</td>
+    <td><a href="https://www.pashov.com/process">Pashov Audit Group</a></td>
+  </tr>
+    <tr>
     <td align="center"><strong>12</strong></td>
     <td><a href="https://ezmanager.finance/">EzManager</a></td>
     <td>EZManager tracks each position from open to close, through every rebalance, capital change, compound and collect</td>
