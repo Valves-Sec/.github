@@ -40,7 +40,7 @@ We compete across Code4rena, Sherlock, and Cantina, and take on private engageme
     <td align="center"><strong>12</strong></td>
     <td><a href="https://ezmanager.finance/">EzManager</a></td>
     <td>EZManager tracks each position from open to close, through every rebalance, capital change, compound and collect</td>
-    <td align="center">private</td>
+    <td align="center"><a href="https://github.com/Valves-Sec/reports/blob/main/EzManager.pdf">Report PDF</a></td>
     <td>May 2026</td>
     <td><a href="https://ezmanager.finance/">EzManager</a></td>
   </tr>
