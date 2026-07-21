@@ -37,6 +37,14 @@ We compete across Code4rena, Sherlock, and Cantina, and take on private engageme
     <th width="140">:briefcase: Provider</th>
   </tr>
     <tr>
+    <td align="center"><strong>14</strong></td>
+    <td><a>Ensemble</a></td>
+    <td>Leveraged perpetuals vault system on HyperEVM</td>
+    <td align="center">private</td>
+    <td>July 2026</td>
+    <td><a href="https://www.pashov.com/process">Pashov Audit Group</a></td>
+  </tr>
+    <tr>
     <td align="center"><strong>13</strong></td>
     <td><a href="https://raac.io/">RAAC</a></td>
     <td>A DeFi lending and borrowing ecosystem powered by Real-World Assets</td>
