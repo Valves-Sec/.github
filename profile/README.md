@@ -36,6 +36,21 @@ We compete across Code4rena, Sherlock, and Cantina, and take on private engageme
     <th width="110">:date: Date</th>
     <th width="140">:briefcase: Provider</th>
   </tr>
+  <td align="center"><strong>16</strong></td>
+    <td><a>K3-Capital</a></td>
+    <td>Fully asynchronous ERC-7540/ERC-4626 vault wrapper for a trusted smart account or Safe, implementing an epoch-staged deposit and redeem flow with NAV-snapshot-based settlement.</td>
+    <td align="center">private</td>
+    <td>August 2026</td>
+    <td><a href="https://www.pashov.com/process">Pashov Audit Group</a></td>
+  </tr>
+  <tr>
+    <td align="center"><strong>15</strong></td>
+    <td>Canton-hackathon-cloakRFQ</td>
+    <td>Private invoice-financing RFQs on Canton.</td>
+    <td align="center"><a href="">Report PDF</a></td>
+    <td>August 2026</td>
+    <td>Canton-hackathon-cloakRFQ</td>
+  </tr>
     <tr>
     <td align="center"><strong>14</strong></td>
     <td><a>Ensemble</a></td>
