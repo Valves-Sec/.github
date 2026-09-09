@@ -62,7 +62,7 @@ We compete across Code4rena, Sherlock, and Cantina, and take on private engageme
     <td align="center"><strong>14</strong></td>
     <td><a>Ensemble</a></td>
     <td>Leveraged perpetuals vault system on HyperEVM</td>
-    <td align="center">private</td>
+    <td align="center"><a href="https://github.com/Valves-Sec/reports/blob/main/RFQ.pdf">Report PDF</a></td>
     <td>July 2026</td>
     <td><a href="https://www.pashov.com/process">Pashov Audit Group</a></td>
   </tr>
