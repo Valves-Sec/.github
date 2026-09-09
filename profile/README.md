@@ -86,13 +86,13 @@ We compete across Code4rena, Sherlock, and Cantina, and take on private engageme
     <td align="center"><strong>11</strong></td>
     <td><a href="https://www.flowvest.io/">Flowvest</a></td>
     <td>Flowvest is a fixed‐term, on‐chain monthly payment tool for predictable stablecoin transfers</td>
-    <td align="center">private</td>
+    <td align="center"><a href="https://github.com/Valves-Sec/reports/blob/main/Flowvest.pdf">Report PDF</a></td>
     <td>May 2026</td>
     <td><a href="https://www.flowvest.io/">Flowvest</a></td>
   </tr>
   <tr>
     <td align="center"><strong>10</strong></td>
-    <td><a href="https://www.snuggle.fi/">Olla</a></td>
+    <td><a>Olla</a></td>
     <td>liquid staking protocol on the Aztec network. Users to deposit AZTEC tokens into an ERC-4626/ERC-7540 vault</td>
     <td align="center">private</td>
     <td>Apr 2026</td>
@@ -102,7 +102,7 @@ We compete across Code4rena, Sherlock, and Cantina, and take on private engageme
     <td align="center"><strong>9</strong></td>
     <td><a href="https://www.snuggle.fi/">Snuggle</a></td>
     <td>Zero-swap Liquidity Manager on Base and Arbitrum. Yield and passive income</td>
-    <td align="center">private</td>
+    <td align="center"><a href="https://github.com/Valves-Sec/reports/blob/main/Snuggle-MaxFi.pdf">Report PDF</a></td>
     <td>Apr 2026</td>
     <td><a href="https://www.snuggle.fi/">Snuggle</a></td>
   </tr>
