@@ -54,7 +54,7 @@ We compete across Code4rena, Sherlock, and Cantina, and take on private engageme
     <td align="center"><strong>15</strong></td>
     <td>Canton-hackathon-cloakRFQ</td>
     <td>Private invoice-financing RFQs on Canton.</td>
-    <td align="center"><a href="">Report PDF</a></td>
+    <td align="center"><a href="https://github.com/Valves-Sec/reports/blob/main/RFQ.pdf">Report PDF</a></td>
     <td>August 2026</td>
     <td>Canton-hackathon-cloakRFQ</td>
   </tr>
@@ -62,7 +62,7 @@ We compete across Code4rena, Sherlock, and Cantina, and take on private engageme
     <td align="center"><strong>14</strong></td>
     <td><a>Ensemble</a></td>
     <td>Leveraged perpetuals vault system on HyperEVM</td>
-    <td align="center"><a href="https://github.com/Valves-Sec/reports/blob/main/RFQ.pdf">Report PDF</a></td>
+    <td align="center">private</td>
     <td>July 2026</td>
     <td><a href="https://www.pashov.com/process">Pashov Audit Group</a></td>
   </tr>
