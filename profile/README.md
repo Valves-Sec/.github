@@ -46,7 +46,7 @@ We compete across Code4rena, Sherlock, and Cantina, and take on private engageme
   <td align="center"><strong>16</strong></td>
     <td><a>K3-Capital</a></td>
     <td>Fully asynchronous ERC-7540/ERC-4626 vault wrapper for a trusted smart account or Safe, implementing an epoch-staged deposit and redeem flow with NAV-snapshot-based settlement.</td>
-    <td align="center">private</td>
+    <td align="center"><a href="https://github.com/pashov/audits/blob/master/team/pdf/K3-security-review_2026-09-03.pdf">Report PDF</a></td>
     <td>August 2026</td>
     <td><a href="https://www.pashov.com/process">Pashov Audit Group</a></td>
   </tr>
@@ -118,7 +118,7 @@ We compete across Code4rena, Sherlock, and Cantina, and take on private engageme
     <td align="center"><strong>7</strong></td>
     <td>Opinion</td>
     <td>UUPS-upgradeable dispute resolution contract for prediction market settlement</td>
-    <td align="center">private</td>
+    <td align="center"><a href="https://github.com/pashov/audits/blob/master/team/pdf/Opinion-security-review_2026-03-24.pdf">Report PDF</a></td>
     <td>Mar 2026</td>
     <td><a href="https://www.pashov.com/process">Pashov Audit Group</a></td>
   </tr>
