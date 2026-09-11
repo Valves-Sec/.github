@@ -20,9 +20,7 @@
 
 ## About
 
-Valves Security is a Web3 security team specializing in adversarial smart contract audits for complex DeFi protocols. We work with DeFi founders and protocol teams to uncover structural weaknesses that could compromise user funds or protocol integrity.
-Forged in competitive audit environments where findings are publicly scrutinized, our methodology is built on disciplined analysis and reproducible, PoC backed findings.
-We compete across Code4rena, Sherlock, and Cantina, and take on private engagements directly.
+Security team auditing Solidity, DAML, and Rust projects. We read your code line by line, we use all king of AI custom tools, we prove what’s broken, and we stay with you through remediation. Every engagement is taken personally by both co-founders and additional Senior level security researchers.
 
 ---
 ## :crossed_swords: Private Engagements
