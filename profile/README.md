@@ -34,6 +34,13 @@ Security team auditing Solidity, DAML, and Rust projects. We read your code line
     <th width="110">:date: Date</th>
     <th width="140">:briefcase: Provider</th>
   </tr>
+    <td align="center"><strong>18</strong></td>
+    <td><a>Trevee</a></td>
+    <td>Stablecoin reserve protocol that manages risk-isolated multi-asset BaseReserves and two-leg MetaReserves, where users deposit stablecoins to receive LP tokens, perform oracle-priced intra-reserve swaps.</td>
+    <td align="center">private</td>
+    <td>September 2026</td>
+    <td><a href="https://www.pashov.com/process">Pashov Audit Group</a></td>
+  </tr>
     <td align="center"><strong>17</strong></td>
     <td><a>Pare</a></td>
     <td>PARE splits ERC-8056 tokenized stocks on Robinhood Chain (chain id 4663) into a principal token (PT) and a yield token (YT) per series, and publishes a public multiplier oracle for lenders.</td>
