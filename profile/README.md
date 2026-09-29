@@ -34,6 +34,22 @@ Security team auditing Solidity, DAML, and Rust projects. We read your code line
     <th width="110">:date: Date</th>
     <th width="140">:briefcase: Provider</th>
   </tr>
+    <tr>
+  <td align="center"><strong>22</strong></td>
+    <td><a>Wincent</a></td>
+    <td>Gas-optimized modular DEX-aggregator swap router integrating Uniswap V1-V4, Balancer, Curve and Fluid, plus Lido staking, Maker-PSM stables and MEV backruns.</td>
+    <td align="center">private</td>
+    <td>October 2026</td>
+    <td><a href="https://www.pashov.com/process">Pashov Audit Group</a></td>
+  </tr>
+    <tr>
+    <td align="center"><strong>21</strong></td>
+    <td>Veil</td>
+    <td>Concentrated, volatile and stable pools under one router, real yield paid from protocol fees, and launches whose liquidity is locked at graduation.</td>
+    <td align="center"><a href="https://github.com/Valves-Sec/reports/blob/main/Veil.pdf">Report PDF</a></td>
+    <td>September 2026</td>
+    <td>Veil</td>
+  </tr>
   <tr>
     <td align="center"><strong>20</strong></td>
     <td><a href="https://www.lunya.io/">Lunya</a></td>
@@ -42,6 +58,7 @@ Security team auditing Solidity, DAML, and Rust projects. We read your code line
     <td>September 2026</td>
     <td><a href="https://www.lunya.io/">Lunya</a></td>
   </tr>
+    <tr>
   <td align="center"><strong>19</strong></td>
     <td><a>Pare 2</a></td>
     <td>PARE splits ERC-8056 tokenized stocks on Robinhood Chain (chain id 4663) into a principal token (PT) and a yield token (YT) per series, and publishes a public multiplier oracle for lenders.</td>
@@ -49,6 +66,7 @@ Security team auditing Solidity, DAML, and Rust projects. We read your code line
     <td>September 2026</td>
     <td><a href="https://www.pashov.com/process">Pashov Audit Group</a></td>
   </tr>
+    <tr>
   <td align="center"><strong>18</strong></td>
     <td><a>Trevee</a></td>
     <td>Stablecoin reserve protocol that manages risk-isolated multi-asset BaseReserves and two-leg MetaReserves, where users deposit stablecoins to receive LP tokens, perform oracle-priced intra-reserve swaps.</td>
@@ -76,7 +94,7 @@ Security team auditing Solidity, DAML, and Rust projects. We read your code line
     <td align="center"><strong>15</strong></td>
     <td>Canton-hackathon-cloakRFQ</td>
     <td>Private invoice-financing RFQs on Canton.</td>
-    <td align="center"><a href="">Report PDF</a></td>
+    <td align="center"><a href="https://github.com/Valves-Sec/reports/blob/main/RFQ.pdf">Report PDF</a></td>
     <td>August 2026</td>
     <td>Canton-hackathon-cloakRFQ</td>
   </tr>
@@ -108,7 +126,7 @@ Security team auditing Solidity, DAML, and Rust projects. We read your code line
     <td align="center"><strong>11</strong></td>
     <td><a href="https://www.flowvest.io/">Flowvest</a></td>
     <td>Flowvest is a fixed‐term, on‐chain monthly payment tool for predictable stablecoin transfers</td>
-    <td align="center">private</td>
+    <td align="center"><a href="https://github.com/Valves-Sec/reports/blob/main/Flowvest.pdf">Report PDF</a></td>
     <td>May 2026</td>
     <td><a href="https://www.flowvest.io/">Flowvest</a></td>
   </tr>
@@ -124,7 +142,7 @@ Security team auditing Solidity, DAML, and Rust projects. We read your code line
     <td align="center"><strong>9</strong></td>
     <td><a href="https://www.snuggle.fi/">Snuggle</a></td>
     <td>Zero-swap Liquidity Manager on Base and Arbitrum. Yield and passive income</td>
-    <td align="center">private</td>
+    <td align="center"><a href="https://github.com/Valves-Sec/reports/blob/main/Snuggle-MaxFi.pdf">Report PDF</a></td>
     <td>Apr 2026</td>
     <td><a href="https://www.snuggle.fi/">Snuggle</a></td>
   </tr>
