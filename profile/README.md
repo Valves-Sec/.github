@@ -36,7 +36,7 @@ Security team auditing Solidity, DAML, and Rust projects. We read your code line
   </tr>
     <tr>
   <td align="center"><strong>22</strong></td>
-    <td><a>Wincent</a></td>
+    <td><a href="https://www.wincent.com/">Wincent</a></td>
     <td>Gas-optimized modular DEX-aggregator swap router integrating Uniswap V1-V4, Balancer, Curve and Fluid, plus Lido staking, Maker-PSM stables and MEV backruns.</td>
     <td align="center">private</td>
     <td>October 2026</td>
@@ -60,15 +60,15 @@ Security team auditing Solidity, DAML, and Rust projects. We read your code line
   </tr>
     <tr>
   <td align="center"><strong>19</strong></td>
-    <td><a>Pare 2</a></td>
+    <td><a href="https://parestocks.com/">Pare 2</a></td>
     <td>PARE splits ERC-8056 tokenized stocks on Robinhood Chain (chain id 4663) into a principal token (PT) and a yield token (YT) per series, and publishes a public multiplier oracle for lenders.</td>
-    <td align="center">private</td>
+    <td align="center"><a href="https://github.com/pashov/audits/blob/master/team/pdf/Pare-security-review_2026-09-28.pdf">Report PDF</a></td>
     <td>September 2026</td>
     <td><a href="https://www.pashov.com/process">Pashov Audit Group</a></td>
   </tr>
     <tr>
   <td align="center"><strong>18</strong></td>
-    <td><a>Trevee</a></td>
+    <td><a href="https://trevee.xyz/">Trevee</a></td>
     <td>Stablecoin reserve protocol that manages risk-isolated multi-asset BaseReserves and two-leg MetaReserves, where users deposit stablecoins to receive LP tokens, perform oracle-priced intra-reserve swaps.</td>
     <td align="center">private</td>
     <td>September 2026</td>
@@ -76,17 +76,17 @@ Security team auditing Solidity, DAML, and Rust projects. We read your code line
   </tr>
   <tr>
   <td align="center"><strong>17</strong></td>
-    <td><a>Pare</a></td>
+    <td><a href="https://parestocks.com/">Pare</a></td>
     <td>PARE splits ERC-8056 tokenized stocks on Robinhood Chain (chain id 4663) into a principal token (PT) and a yield token (YT) per series, and publishes a public multiplier oracle for lenders.</td>
-    <td align="center">private</td>
+    <td align="center"><a href="https://github.com/pashov/audits/blob/master/team/pdf/Pare-security-review_2026-09-17.pdf">Report PDF</a></td>
     <td>September 2026</td>
     <td><a href="https://www.pashov.com/process">Pashov Audit Group</a></td>
   </tr>
   <tr>
   <td align="center"><strong>16</strong></td>
-    <td><a>K3-Capital</a></td>
+    <td><a href="https://www.k3.capital/">K3-Capital</a></td>
     <td>Fully asynchronous ERC-7540/ERC-4626 vault wrapper for a trusted smart account or Safe, implementing an epoch-staged deposit and redeem flow with NAV-snapshot-based settlement.</td>
-    <td align="center">private</td>
+    <td align="center"><a href="https://github.com/pashov/audits/blob/master/team/pdf/K3-security-review_2026-09-03.pdf">Report PDF</a></td>
     <td>August 2026</td>
     <td><a href="https://www.pashov.com/process">Pashov Audit Group</a></td>
   </tr>
@@ -102,7 +102,7 @@ Security team auditing Solidity, DAML, and Rust projects. We read your code line
     <td align="center"><strong>14</strong></td>
     <td><a>Ensemble</a></td>
     <td>Leveraged perpetuals vault system on HyperEVM</td>
-    <td align="center">private</td>
+    <td align="center"><a href="https://github.com/pashov/audits/blob/master/team/pdf/Ensemble-security-review_2026-09-14.pdf">Report PDF</a></td>
     <td>July 2026</td>
     <td><a href="https://www.pashov.com/process">Pashov Audit Group</a></td>
   </tr>
@@ -164,7 +164,7 @@ Security team auditing Solidity, DAML, and Rust projects. We read your code line
   </tr>
   <tr>
     <td align="center"><strong>6</strong></td>
-    <td>Gemint</td>
+    <td><a href="https://www.gemint.io/">Gemint</a></td>
     <td>An upgradeable NFT and gacha controller system for physical collectible cards</td>
     <td align="center">private</td>
     <td>Mar 2026</td>
