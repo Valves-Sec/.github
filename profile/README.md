@@ -20,7 +20,7 @@
 
 ## About
 
-Security team auditing Solidity, DAML, and Rust projects. We read your code line by line, we use all king of AI custom tools, we prove what’s broken, and we stay with you through remediation. Every engagement is taken personally by both co-founders and additional Senior level security researchers.
+Security team auditing Solidity, DAML, and Rust projects. We read your code line by line, we use all kind of AI custom tools, we prove what’s broken, and we stay with you through remediation. Every engagement is taken personally by both co-founders and additional Senior level security researchers.
 
 ---
 ## :crossed_swords: Private Engagements
