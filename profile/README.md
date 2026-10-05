@@ -35,11 +35,19 @@ Security team auditing Solidity, DAML, and Rust projects. We read your code line
     <th width="140">:briefcase: Provider</th>
   </tr>
     <tr>
+  <td align="center"><strong>23</strong></td>
+    <td><a href="https://www.wincent.com/">Olympusx</a></td>
+    <td> Uni V3/V4 + Robinhood integration</td>
+    <td align="center">private</td>
+    <td>October 2026</td>
+    <td><a href="https://audita.io/">Audita</a></td>
+  </tr>
+    <tr>
   <td align="center"><strong>22</strong></td>
     <td><a href="https://www.wincent.com/">Wincent</a></td>
     <td>Gas-optimized modular DEX-aggregator swap router integrating Uniswap V1-V4, Balancer, Curve and Fluid, plus Lido staking, Maker-PSM stables and MEV backruns.</td>
     <td align="center">private</td>
-    <td>September 2026</td>
+    <td>October 2026</td>
     <td><a href="https://www.pashov.com/process">Pashov Audit Group</a></td>
   </tr>
     <tr>
