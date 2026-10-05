@@ -36,7 +36,7 @@ Security team auditing Solidity, DAML, and Rust projects. We read your code line
   </tr>
     <tr>
   <td align="center"><strong>23</strong></td>
-    <td><a href="https://www.wincent.com/">Olympusx</a></td>
+    <td>Olympusx</td>
     <td> Uni V3/V4 + Robinhood integration</td>
     <td align="center">private</td>
     <td>October 2026</td>
