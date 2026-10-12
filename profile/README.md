@@ -35,6 +35,14 @@ Security team auditing Solidity, DAML, and Rust projects. We read your code line
     <th width="140">:briefcase: Provider</th>
   </tr>
     <tr>
+    <td align="center"><strong>24</strong></td>
+    <td><a href="https://parestocks.com/">Pare 3</a></td>
+    <td>PARE splits ERC-8056 tokenized stocks on Robinhood Chain (chain id 4663) into a principal token (PT) and a yield token (YT) per series, and publishes a public multiplier oracle for lenders.</td>
+    <td align="center">Report PDF</td>
+    <td>October 2026</td>
+    <td><a href="https://www.pashov.com/process">Pashov Audit Group</a></td>
+  </tr>
+    <tr>
   <td align="center"><strong>23</strong></td>
     <td>Olympusx</td>
     <td> Uni V3/V4 + Robinhood integration</td>
