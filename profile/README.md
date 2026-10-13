@@ -52,7 +52,7 @@ Security team auditing Solidity, DAML, and Rust projects. We read your code line
   </tr>
     <tr>
   <td align="center"><strong>22</strong></td>
-    <td><a href="https://www.wincent.com/">Private</a></td>
+    <td>Private</td>
     <td>Gas-optimized modular DEX-aggregator swap router.</td>
     <td align="center">private</td>
     <td>October 2026</td>
