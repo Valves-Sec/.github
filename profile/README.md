@@ -52,11 +52,11 @@ Security team auditing Solidity, DAML, and Rust projects. We read your code line
   </tr>
     <tr>
   <td align="center"><strong>23</strong></td>
-    <td>Olympusx</td>
+    <td>private</td>
     <td> Uni V3/V4 + Robinhood integration</td>
     <td align="center">private</td>
     <td>October 2026</td>
-    <td><a href="https://audita.io/">Audita</a></td>
+    <td>private</td>
   </tr>
     <tr>
   <td align="center"><strong>22</strong></td>
