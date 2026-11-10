@@ -35,8 +35,32 @@ Security team auditing Solidity, DAML, and Rust projects. We read your code line
     <th width="140">:briefcase: Provider</th>
   </tr>
     <tr>
+    <td align="center"><strong>28</strong></td>
+    <td><a href="https://oxley.fun/">Oxley</a></td>
+    <td>launches tokens through auctions, then opens post-auction trading.</td>
+    <td align="center">private</td>
+    <td>November 2026</td>
+    <td><a href="https://oxley.fun/">Oxley</a></td>
+  </tr>
+    <tr>
+    <td align="center"><strong>27</strong></td>
+    <td><a href="https://app.uniswap.org/">Uniswap</a></td>
+    <td>Decentralized cryptocurrency exchange that allows users to trade tokens directly with one</td>
+    <td align="center">private</td>
+    <td>November 2026</td>
+    <td><a href="https://audit-engine.sherlock.xyz/">Sherlock</a></td>
+  </tr>
+    <tr>
+    <td align="center"><strong>26</strong></td>
+    <td><a href="https://kamino.com/">Kamino</a></td>
+    <td>Protocol on Solana that lets users deposit crypto assets to earn interest while enabling others to borrow those assets using collateral.</td>
+    <td align="center">private</td>
+    <td>October 2026</td>
+    <td><a href="https://audit-engine.sherlock.xyz/">Sherlock</a></td>
+  </tr>
+    <tr>
   <td align="center"><strong>25</strong></td>
-    <td>Private</td>
+    <td><a href="https://www.raidollar.tech/">RAI Dollar</a></td>
     <td>Мulti-collateral floating-par CDP stablecoin protocol.</td>
     <td align="center">private</td>
     <td>October 2026</td>
